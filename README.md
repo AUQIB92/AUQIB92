@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Auqib Hamid
 - 👀 I’m interested in Blockchain and Cryptography 
-- 🌱 I’m currently working as Blockchain Research Scientist at Parfin (UK absed Crypto Custodian)
+- 🌱 I’m currently working as Blockchain Research Scientist at Parfin (UK based Crypto Custodian)
 - 💞️ I’m  keeping close watch on Blockchain devlopments
 - 📫 How to reach me ... auqib92gmail.com
 
